@@ -4,7 +4,6 @@
 
 
 #To check if argument is provided
-
 if [[ -z "$1" ]]; then
 echo "Usage: $0 <directory_path>"
 exit 1
